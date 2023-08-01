@@ -1,0 +1,7 @@
+public class ArrayOperation
+{
+    public static void main(Static []args)
+    {
+        System.out.println("Do Array Operations");
+    }
+}
